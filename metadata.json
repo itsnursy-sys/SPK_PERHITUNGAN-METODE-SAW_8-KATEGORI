@@ -1,0 +1,6 @@
+{
+  "name": "SPK SAW",
+  "description": "Sistem Pendukung Keputusan (SPK) dengan metode SAW (Simple Additive Weighting)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
